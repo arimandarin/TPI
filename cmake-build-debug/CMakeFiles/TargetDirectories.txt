@@ -1,0 +1,3 @@
+C:/Users/berin/Documents/facultad/exactas/1ero/ALGO 1/tpi2/cmake-build-debug/CMakeFiles/tpi2.dir
+C:/Users/berin/Documents/facultad/exactas/1ero/ALGO 1/tpi2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/berin/Documents/facultad/exactas/1ero/ALGO 1/tpi2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
